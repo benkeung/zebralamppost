@@ -1,0 +1,32 @@
+Team Member Names:
+Ben Keung
+Nathan Chow
+Navpreet Brar
+
+Team Member Student IDs:
+18279075
+
+Team Member ugrad.cs.ubc.ca Logins:
+a9d8
+
+Initial level commitment (80%, 90%, or 100%):
+86
+
+Tutorial time that at least one and ideally all members will guarantee to attend
+each week:
+
+
+3+ hours weekly that the group guarantees EACH OTHER to be available
+to meet (face-to-face or at a distance):
+Every MWF at 12-1pm
+
+Three one-sentence ideas the team might pursue for the project:
+
+1.  Create an iOS app using Apple's swift, and highlighting the differences and
+improvements of Swift versus Objective-C.
+
+2.  Create an app with Scala that demonstrates some of Scala's improvements over
+Java such as having closures and handling concurrent computations.
+
+3. Modify Python to include allow the option to have type declarations in
+variable and method declarations.
