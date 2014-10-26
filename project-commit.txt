@@ -5,16 +5,20 @@ Navpreet Brar
 
 Team Member Student IDs:
 18279075
+<Nathan's St #>
+43860105
 
 Team Member ugrad.cs.ubc.ca Logins:
 a9d8
+<Nathan's cs login>
+p6y7
 
 Initial level commitment (80%, 90%, or 100%):
 86
 
 Tutorial time that at least one and ideally all members will guarantee to attend
 each week:
-
+How about 1pm - 2pm ?
 
 3+ hours weekly that the group guarantees EACH OTHER to be available
 to meet (face-to-face or at a distance):
